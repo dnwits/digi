@@ -8,6 +8,6 @@
 # Si es detecta un accés no autoritzat, emet un avís d'alerta.
 
 accessos = {'usuari1': 'autoritzat', 'usuari2': 'no autoritzat'}
-# print(accessos['usuari1'])
+#print(accessos['usuari1'])
 usuari = str(input("Introdueix l'usuari: "))
 print(accessos[usuari])
