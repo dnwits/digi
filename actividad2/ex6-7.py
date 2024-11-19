@@ -1,6 +1,8 @@
 #Aquest programa llegeix dades de consum energètic d'una fàbrica a partir d'un fitxer CSV i calcula el consum total 
 # per dia i per mes. A més, determina quin dia ha tingut el consum energètic més alt. Això ajuda a monitoritzar 
 # l'eficiència energètica d'una fàbrica.
+
+#No fet, la veritat...
 import pandas as pd
 
 

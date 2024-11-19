@@ -8,4 +8,4 @@ print(inventari[producte])
 if [producte]<minim:
     print("Quantitat sota minims establerts!!")
 else:
-    print("Tot correcte :3")
+    print("Tot correcte")
